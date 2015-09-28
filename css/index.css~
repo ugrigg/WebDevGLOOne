@@ -13,11 +13,16 @@ li {
 	margin: 0 0 10px 0;
 }
 
-/*
-img {
-	width: 80%;
+table {
+	text-align: center;
+	margin: 0 auto;
+	border: 1px solid black;
 }
-*/
+
+caption {
+	font-weight: bold;
+	text-align: center;
+}
 
 h1 {
 	text-align: center;
@@ -38,7 +43,7 @@ nav ul li {
 }
 
 #activityTwo img {
-	height: 450px;
+	height: 375px;
 }
 
 .centeredImage {

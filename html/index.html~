@@ -69,12 +69,74 @@
 		
 		<div id="activityThree">
 			<h2>#3 Hire A Clown</h2>
-			<img class="centeredImage" src="../img/clown.jpeg" alt="proffesional clown">
-			https://www.clowns.com/
+			<img class="centeredImage" src="../img/clown.jpeg" alt="professional clown">
+			<p>
+			No matter how old you are every birthday needs a clown. My go to website is <a href="https://www.clowns.com/">https://www.clowns.com</a>.
+			It is a great resource for all your clown needs; however, you may go to <a href="https://www.craigslist.com">craigslist</a> if you
+			are strapped for cash, just don't expect quality clowning. Trust me, it's worth it. 
+			</p>
 		</div>
 		
 		<div id="activityFour">
-			<h2>#4</h2>
+			<h2>#4 Budget Your Money</h2>
+			<img class="centeredImage.css" src="../img/money.jpeg" alt="budgeting">
+			<p>
+				With all that birthday money coming in, now is a perfect time to make sure you don't spend it all,
+				at least not all at once. Set up a simple budget, see how much you need for food, transportation, and
+				other activities. I've included a sample one below.
+			</p>
+			<table>
+				<caption>Weekly Budget</caption>
+				<th>
+					<td>Expenses</td>
+					<td></td>
+					<td></td>
+					<td>Money</td>
+				</th>
+				<tr>
+					<td>Groceries</td>
+					<td>$50</td>
+					<td></td>
+					<td>Mom</td>
+					<td>$250</td>
+				</tr>
+				<tr>
+					<td>"Soda Pop"</td>
+					<td>$75</td>
+					<td></td>
+					<td>Dad</td>
+					<td>$250</td>
+				</tr>
+				<tr>
+					<td>Gas</td>
+					<td>$50</td>
+					<td></td>
+					<td>Paycheck</td>
+					<td>$500</td>
+					</td>
+				</tr>
+				<tr>
+					<td>Rent</td>
+					<td>$400</td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>Totals</td>
+					<td>$575</td>
+					<td></td>
+					<td></td>
+					<td>$1000</td>
+				</tr>
+				<tr>
+					<td>Leftover</td>
+					<td>$425</td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
 		</div>
 		
 		<div id="activityFive">
