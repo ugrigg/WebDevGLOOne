@@ -1,0 +1,51 @@
+body {
+	background-color: #FFE8CC;
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	font-weight: bold;
+	margin: 0 0 10px 0;
+}
+
+/*
+img {
+	width: 80%;
+}
+*/
+
+h1 {
+	text-align: center;
+}
+
+nav ul {
+	text-align: center;
+}
+
+nav ul li {
+	display: inline;
+}
+
+#container {
+	margin: auto;
+	width: 80%;
+	overflow: hidden;
+}
+
+#activityTwo img {
+	height: 375px;
+}
+
+.centeredImage {
+	margin: 0 auto;
+	width: 80%;
+}
+
+.centeredList {
+	text-align: center;
+}
