@@ -42,8 +42,12 @@ nav ul li {
 	overflow: hidden;
 }
 
-#activityTwo img {
+#clownPic {
 	height: 375px;
+}
+
+#goToTop {
+	float: right;
 }
 
 .centeredImage {
